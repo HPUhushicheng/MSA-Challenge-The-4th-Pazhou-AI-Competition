@@ -1,5 +1,8 @@
-# Cross-Lingual Multimodal Explainable Emotion Recognition (CLMER)
-A Unified End-to-End Framework for Accurate, Generalizable, and Interpretable Emotion Detection in Bilingual Video Content
+# Cross-Lingual Multimodal Explainable Emotion Recognition (CLMER) 
+<p align="center">
+  <img width="559" height="280" alt="image" src="https://github.com/user-attachments/assets/7cf04e72-bbfc-41f5-91da-4a0340ac19d4" />
+</p>
+A Unified End-to-End Framework for Accurate, Generalizable, and Interpretable Emotion Detection in Bilingual Video Content 
 
 
 ## 🌟 Project Overview
