@@ -4,6 +4,8 @@
 </p>
 A Unified End-to-End Framework for Accurate, Generalizable, and Interpretable Emotion Detection in Bilingual Video Content 
 
+[ English | **[中文](README_zh.md)** ]
+
 
 ## 🌟 Project Overview
 CLMER is a state-of-the-art end-to-end deep learning framework designed for the "Cross-Lingual Multimodal Explainable Emotion Recognition" competition. It integrates multiple advanced pre-trained models, including R1-Omni, emotion2vec, Whisper-large-v3-turbo, SigLIP-base-patch16-224, and BERT-base-uncased, to construct a unified emotion recognition framework with cross-lingual processing capabilities, multimodal information fusion capabilities, and decision interpretability . By introducing the Reinforcement Learning with Verifiable Rewards (RLVR) mechanism, the model achieves dynamic fusion and attribution analysis of text, speech, and visual modal features, demonstrating excellent accuracy and cross-lingual generalization performance in Chinese and English video emotion recognition tasks .
