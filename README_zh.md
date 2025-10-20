@@ -1,5 +1,7 @@
+<div align="center" markdown="1">
 
 # 跨语言多模态可解释情感识别模型（CLMER)
+</div>
 
 <p align="center">
   <img width="559" height="280" alt="image" src="https://github.com/user-attachments/assets/7cf04e72-bbfc-41f5-91da-4a0340ac19d4" />
