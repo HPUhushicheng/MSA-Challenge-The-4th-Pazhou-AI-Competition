@@ -1,8 +1,10 @@
 
-# 跨语言多模态可解释情感识别模型（CLMER）
+# 跨语言多模态可解释情感识别模型（CLMER)
+
 <p align="center">
   <img width="559" height="280" alt="image" src="https://github.com/user-attachments/assets/7cf04e72-bbfc-41f5-91da-4a0340ac19d4" />
 </p>
+
 ## 项目简介
 本项目是为“跨语言多模态可解释情感识别”竞赛设计的端到端深度学习模型，整合了R1-Omni、emotion2vec、Whisper-large-v3-turbo、SigLIP-base-patch16-224及BERT-base-uncased等多种先进预训练模型，构建了兼具跨语言处理能力、多模态信息融合能力与决策可解释性的统一情感识别框架。通过引入强化学习可验证奖励（Reinforcement Learning with Verifiable Rewards, RLVR）机制，模型实现了对文本、语音与视觉模态特征的动态融合与归因分析，在中英文视频情感识别任务中展现出优异的准确率与跨语言泛化性能。
 
