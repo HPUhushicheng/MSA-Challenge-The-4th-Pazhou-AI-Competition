@@ -38,14 +38,12 @@ sudo apt install ffmpeg -y  # ubuntu
 
 # 运行
 ```py
-cd MSA_tijiao_code
+cd MSA_code
 python test_script.py
 ```
 
 # 结果
-R1-Omni的视频情感分析think COT思维链包存在Test_Supplements/video_emotion_results，字幕结果和日志会保存在Test_Supplements/transcription_results.csv与Test_Supplements/transcription_log.txt中
-最终的监测结果放在Test_Results/combined_results.csv中
+>R1-Omni的视频情感分析think COT思维链包存在Test_Supplements/video_emotion_results，字幕结果和日志会保存在Test_Supplements/transcription_results.csv与Test_Supplements/transcription_log.txt中
+>最终的监测结果放在Test_Results/combined_results.csv中
 
 
-# 遇到任何无法复现问题请及时联系我们
-微信号：18790492316
