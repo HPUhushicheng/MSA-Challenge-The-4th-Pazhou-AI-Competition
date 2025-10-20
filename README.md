@@ -1,5 +1,6 @@
 # 本地机器配置
 系统配置
+
 PyTorch  2.5.1
 Python  3.12
 CUDA  12.4
@@ -13,13 +14,14 @@ python=3.10
 (ubuntu22.04)
 
 # 创建conda msa环境以及安装依赖
+```sh
 conda create -n msa python=3.10 -y
 activate msa
-cd MSA_tijiao_code
+cd MSA_code
 pip install -r requirements.txt
 sudo apt update 
 sudo apt install ffmpeg -y  # ubuntu
-
+```
 
 
 
