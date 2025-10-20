@@ -53,6 +53,12 @@ cd MSA_code
 python test_script.py
 ```
 
+
+
+# 结果
+>R1-Omni的视频情感分析think COT思维链包存在Test_Supplements/video_emotion_results，字幕结果和日志会保存在Test_Supplements/transcription_results.csv与Test_Supplements/transcription_log.txt中
+>最终的监测结果放在Test_Results/combined_results.csv中
+
 #  参考⽂献
 1. R1-Omni: Reinforcement Learning with Verifiable Rewards for Omni-modal Emotion
 Recognition
@@ -62,9 +68,4 @@ Representation
 4. Wang, X., et al. (2023). SigLIP: Signature-based Language-Image Pre-training.
 5. Radford, A., et al. (2022). Robust Speech Recognition via Large-Scale Supervised
 Training.
-
-# 结果
->R1-Omni的视频情感分析think COT思维链包存在Test_Supplements/video_emotion_results，字幕结果和日志会保存在Test_Supplements/transcription_results.csv与Test_Supplements/transcription_log.txt中
->最终的监测结果放在Test_Results/combined_results.csv中
-
 
