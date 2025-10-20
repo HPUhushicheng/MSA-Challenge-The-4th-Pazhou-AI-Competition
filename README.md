@@ -1,3 +1,12 @@
+# 摘要
+本⽂详细介绍了⼀种⾯向“跨语⾔多模态可解释情感识别”竞赛所设计的端到端深度学习模
+型。该模型融合了R1-Omni、emotion2vec、Whisper-large-v3-turbo、SigLIP-basepatch16-224以及BERT-base-uncased等多种先进预训练模型，构建了⼀个兼具跨语⾔处理
+能⼒、多模态信息融合能⼒与决策可解释性的统⼀情感识别框架。通过引⼊强化学习可验证
+奖励（Reinforcement Learning with Verifiable Rewards, RLVR）机制，模型实现了对⽂本、
+语⾳与视觉模态特征的动态融合与归因分析，在中英⽂视频情感识别任务上展现出优异的准
+确率与跨语⾔泛化性能。
+
+
 # 本地机器配置
 系统配置
 
